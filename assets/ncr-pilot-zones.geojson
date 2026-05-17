@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "NCR-G01",
+        "hub": "Gurugram",
+        "label": "DLF Phase 1–3 / Cyber City fringe",
+        "radius_m": 2200,
+        "source": "Approximate centroid from public geocoding (DLF Phase 3, Sector 24, Gurugram)"
+      },
+      "geometry": { "type": "Point", "coordinates": [77.093661, 28.493568] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "NCR-G02",
+        "hub": "Gurugram",
+        "label": "Golf Course Road / Sector 43–56",
+        "radius_m": 2500,
+        "source": "Approximate centroid (DLF Golf Course Rd, Sector 42, Gurgaon)"
+      },
+      "geometry": { "type": "Point", "coordinates": [77.097599, 28.455255] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "NCR-G03",
+        "hub": "Gurugram",
+        "label": "Sector 29 / MG Road / NH48 corridor",
+        "radius_m": 2200,
+        "source": "Approximate centroid (Iffco Chowk / Sector 29, Gurugram)"
+      },
+      "geometry": { "type": "Point", "coordinates": [77.064047, 28.468365] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "NCR-D01",
+        "hub": "South Delhi",
+        "label": "Greater Kailash I–II / Chittaranjan Park",
+        "radius_m": 2200,
+        "source": "Wikipedia / GeoHack (Greater Kailash)"
+      },
+      "geometry": { "type": "Point", "coordinates": [77.23971, 28.544342] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "NCR-D02",
+        "hub": "South Delhi",
+        "label": "Hauz Khas / Green Park / Saket",
+        "radius_m": 2800,
+        "source": "Approximate corridor centroid (Hauz Khas area, South Delhi)"
+      },
+      "geometry": { "type": "Point", "coordinates": [77.203613, 28.549507] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "NCR-D03",
+        "hub": "South Delhi",
+        "label": "Defence Colony / Lajpat Nagar II–IV",
+        "radius_m": 2200,
+        "source": "Approximate centroid (Lajpat Nagar, New Delhi)"
+      },
+      "geometry": { "type": "Point", "coordinates": [77.24411, 28.569271] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "NCR-D04",
+        "hub": "South Delhi",
+        "label": "Malviya Nagar / Panchsheel",
+        "radius_m": 2000,
+        "source": "GeoHack / Wikipedia (Malviya Nagar, Delhi)"
+      },
+      "geometry": { "type": "Point", "coordinates": [77.211, 28.534] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "NCR-N01",
+        "hub": "Noida",
+        "label": "Sector 62 / 63 (electronic city)",
+        "radius_m": 2200,
+        "source": "Approximate centroid (Noida Sector 62)"
+      },
+      "geometry": { "type": "Point", "coordinates": [77.364026, 28.622934] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "NCR-N02",
+        "hub": "Noida",
+        "label": "Sector 18 / Sector 38 (Atta)",
+        "radius_m": 2000,
+        "source": "Approximate centroid (Sector 18, NOIDA)"
+      },
+      "geometry": { "type": "Point", "coordinates": [77.323109, 28.569588] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "NCR-N03",
+        "hub": "Noida",
+        "label": "Noida–Greater Noida Expressway / 137",
+        "radius_m": 2200,
+        "source": "Approximate centroid (Sector 137, Noida) + Noida Metro Aqua Line Sector 137 station"
+      },
+      "geometry": { "type": "Point", "coordinates": [77.406, 28.509] }
+    }
+  ]
+}

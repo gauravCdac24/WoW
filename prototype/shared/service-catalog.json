@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "id": "plumbing",
+      "name": "Plumbing",
+      "skus": [
+        { "id": "plumb-tap-leak", "name": "Tap leak fix", "basePriceInr": 299, "inspectionFeeInr": 99 },
+        { "id": "plumb-drain", "name": "Drain unclogging", "basePriceInr": 399, "inspectionFeeInr": 99 },
+        { "id": "plumb-flush", "name": "Flush tank repair", "basePriceInr": 349, "inspectionFeeInr": 99 }
+      ]
+    },
+    {
+      "id": "electrical",
+      "name": "Electrical",
+      "skus": [
+        { "id": "elec-switch", "name": "Switch / socket replacement", "basePriceInr": 249, "inspectionFeeInr": 99 },
+        { "id": "elec-fan", "name": "Fan repair / install", "basePriceInr": 299, "inspectionFeeInr": 99 },
+        { "id": "elec-mcb", "name": "MCB / fuse basic", "basePriceInr": 279, "inspectionFeeInr": 99 }
+      ]
+    },
+    {
+      "id": "cleaning",
+      "name": "Home cleaning",
+      "skus": [
+        { "id": "clean-bath", "name": "Bathroom deep clean", "basePriceInr": 699, "inspectionFeeInr": 0 },
+        { "id": "clean-kitchen", "name": "Kitchen deep clean", "basePriceInr": 899, "inspectionFeeInr": 0 },
+        { "id": "clean-sofa", "name": "Sofa cleaning", "basePriceInr": 799, "inspectionFeeInr": 0 }
+      ]
+    }
+  ]
+}
